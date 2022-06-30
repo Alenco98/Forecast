@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  background-color: grey;
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  width:100%;
+  padding:15px;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+.header-style {
+  font-size: 40px;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+}
+
+.card {
+  width: 500px;
+}
+
+.fiveDay{    
+  background-color: grey;
+  margin: 20px;
+}
+
+h3 {
+  float:right;
+}
+
+.instructions {
+  font-weight: bold;
+}
+
